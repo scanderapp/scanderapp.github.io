@@ -38,36 +38,36 @@ features                                  :
     description                           : Η μοναδική διεπαφή χρήστη της εφαρμογής προσφέρει μια ευχάριστη εμπειρία στο καταναλωτή.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Κλήση Σερβιτόρου on Demand
+    description                           : Μπορείτε να καλέσετε ανά πάσα στιγμή ένα σερβιτόρο με το πάτημα ενός κουμπιού είτε για να πληρώσετε είτε για να σας βοηθήσει ενώ παράλληλα ενημερώνεστε για το ποιος θα σας εξυπηρετήσει.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Παραγγελία χωρίς αναμονές
+    description                           : Παραγγείλτε αυτόματα χωρίς να περιμένετε για κάποιον να σας εξυπηρετήσει μέσα από την εφαρμογή.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Ανακαλύψτε νέα μαγαζιά
+    description                           : Παραγγείλτε αυτόματα χωρίς να περιμένετε για κάποιον να σας εξυπηρετήσει μέσα από την εφαρμογή.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Πάντα ενημερωμένοι κατάλογοι
+    description                           : Η εφαρμογή διατηρεί πλήρως ανανεωμένους καταλόγους μαγαζιών χωρίς να χρειάζεται να ανησυχείτε για το αν κάποιο προϊόν είναι διαθέσιμο ή όχι.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Ιστορικό Παραγγελιών
+    description                           : Η εφαρμογή παρέχει την δυνατότητα να διατηρείτε το ιστορικό των παραγγελιών σας.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
+  - title                                 : Μείωση λάθους παραγγελιών
     description                           : Display a smart app banner on iOS devices.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Φιλικό προς το περιβάλλον
+    description                           : Το Scander με μεγάλη ευθύνη απέναντι στο περιβάλλον συμβάλλει στη μείωση των χάρτινων και πλαστικών καταλόγων.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Αγαπημένα Μέρη
+    description                           : Εάν κάποιο μέρος που επισκεφθήκατε σας εντυπωσίασε, μπορείτε να το αποθηκεύστε ώς αγαπημένο έτσι ώστε να το επισκεφθείτε ξανά
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
