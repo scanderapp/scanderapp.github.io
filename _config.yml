@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Μείωση λάθους παραγγελιών
-    description                           : Display a smart app banner on iOS devices.
+    description                           : Χρησιμοποιώντας την εφαρμογή Scander μειώνεται το ενδεχόμενο λάθος σε μια παραγγελία.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Φιλικό προς το περιβάλλον
