@@ -44,31 +44,31 @@ features                                  :
 
   - title                                 : Παραγγελία χωρίς αναμονές
     description                           : Παραγγείλτε αυτόματα χωρίς να περιμένετε για κάποιον να σας εξυπηρετήσει μέσα από την εφαρμογή.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : clock
 
   - title                                 : Ανακαλύψτε νέα μαγαζιά
     description                           : Παραγγείλτε αυτόματα χωρίς να περιμένετε για κάποιον να σας εξυπηρετήσει μέσα από την εφαρμογή.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : search
 
   - title                                 : Πάντα ενημερωμένοι κατάλογοι
     description                           : Η εφαρμογή διατηρεί πλήρως ανανεωμένους καταλόγους μαγαζιών χωρίς να χρειάζεται να ανησυχείτε για το αν κάποιο προϊόν είναι διαθέσιμο ή όχι.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : hamburger
   
   - title                                 : Ιστορικό Παραγγελιών
     description                           : Η εφαρμογή παρέχει την δυνατότητα να διατηρείτε το ιστορικό των παραγγελιών σας.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : history
 
   - title                                 : Μείωση λάθους παραγγελιών
     description                           : Χρησιμοποιώντας την εφαρμογή Scander μειώνεται το ενδεχόμενο λάθος σε μια παραγγελία.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : level-down-alt
 
   - title                                 : Φιλικό προς το περιβάλλον
     description                           : Το Scander με μεγάλη ευθύνη απέναντι στο περιβάλλον συμβάλλει στη μείωση των χάρτινων και πλαστικών καταλόγων.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : envira
 
   - title                                 : Αγαπημένα Μέρη
     description                           : Εάν κάποιο μέρος που επισκεφθήκατε σας εντυπωσίασε, μπορείτε να το αποθηκεύστε ώς αγαπημένο έτσι ώστε να το επισκεφθείτε ξανά
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : heart
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
