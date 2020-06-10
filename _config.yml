@@ -12,7 +12,7 @@ presskit_download_link                    : http://app.scander.gr/Login         
 app_icon                                  : assets/icon4.png                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Scander                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The new dine-in order automation app.
+app_description                           : Η νέα εφαρμογή για ανέπαφες παραγγελίες σε χώρους εστίασης.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
