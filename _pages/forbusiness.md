@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For Business
+title: Για Επιχειρήσεις
 include_in_header: true
 ---
 
