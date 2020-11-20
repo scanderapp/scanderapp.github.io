@@ -6,7 +6,7 @@ ios_app_id                                :                                     
 
 appstore_link                             : https://www.apple.com/gr/ios/app-store/   # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.milouk.scander&fbclid=IwAR3A5T6rU34C10IMd8xF4CYxaGPCS9hLjVFum_sgVb5zWgG_bkbTJqJcneU             # Enter Google Play Store URL.
-presskit_download_link                    : http://app.scander.gr/Login               # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : http://app.scander.gr/Login               # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/app_icon.png                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -19,14 +19,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
+your_name                                 : Emil Baehr
+your_link                                 : https://emilbaehr.com
+your_city                                 : Copenhagen
 email_address                             : scanderapp@gmail.com
-facebook_username                         : Scander-110095954023305                                          
+facebook_username                         : Scander-110095954023305
 instagram_username                        : scanderapp/?hl=el
-twitter_username                          : 
-github_username                           : 
+twitter_username                          :
+github_username                           :
 youtube_username                          :
 
 
@@ -36,7 +36,7 @@ features                                  :
   - title                                 : Εύκολο στη χρήση
     description                           : Η μοναδική διεπαφή χρήστη της εφαρμογής προσφέρει μια ευχάριστη εμπειρία στο καταναλωτή.
     fontawesome_icon_name                 : mobile
-    
+
   - title                                 : Κλήση Σερβιτόρου on Demand
     description                           : Μπορείτε να καλέσετε ανά πάσα στιγμή ένα σερβιτόρο με το πάτημα ενός κουμπιού είτε για να πληρώσετε είτε για να σας βοηθήσει ενώ παράλληλα ενημερώνεστε για το ποιος θα σας εξυπηρετήσει.
     fontawesome_icon_name                 : bell
@@ -52,7 +52,7 @@ features                                  :
   - title                                 : Πάντα ενημερωμένοι κατάλογοι
     description                           : Η εφαρμογή διατηρεί πλήρως ανανεωμένους καταλόγους μαγαζιών χωρίς να χρειάζεται να ανησυχείτε για το αν κάποιο προϊόν είναι διαθέσιμο ή όχι.
     fontawesome_icon_name                 : utensils
-  
+
   - title                                 : Ιστορικό Παραγγελιών
     description                           : Η εφαρμογή παρέχει την δυνατότητα να διατηρείτε το ιστορικό των παραγγελιών σας.
     fontawesome_icon_name                 : history
@@ -73,6 +73,25 @@ features                                  :
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
+
+# Partners Section
+partners                                  :
+
+  - title                                 : ΜΟΚΕ
+    logo                                  : assets/moke.jpg
+    link                                  : https://www.aueb.gr/el/content/10os-diagonismos-epiheirimatikotitas-tis-moke-opa-dilose-ti-symmetohi-soy
+
+  - title                                 : ACEIN
+    logo                                  : assets/acein.png
+    link                                  : https://acein.aueb.gr/
+
+  - title                                 : AUEB
+    logo                                  : assets/aueb.png
+    link                                  : https://aueb.gr/
+
+
+# Global Variables
+partners_header                           : Με την υποστήριξη
 
 
 # Theme Settings
